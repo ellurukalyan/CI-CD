@@ -1,4 +1,4 @@
-// Obtaining an Artifactory server instances in defined bu the in  Jenkins:
+// Obtaining an Artifactory server instances in defined by the in  Jenkins:
 			
 def server = Artifactory.server 'Artifactory Version 4.15.0'
 
