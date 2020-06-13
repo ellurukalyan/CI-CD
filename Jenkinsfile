@@ -1,4 +1,4 @@
-// Obtaining an Artifactory server fddf instance re by defined- in Jenkins:
+// Obtaining an Artifactory server instance by define in Jenkins:
 			
 def server = Artifactory.server 'Artifactory Version 4.15.0'
 
